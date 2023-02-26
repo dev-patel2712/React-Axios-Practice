@@ -1,0 +1,11 @@
+.Heading{
+    width:80%;
+    margin-left: 10%;
+    margin-top: 2%;
+    background-color: darkblue;
+    color:white;
+    justify-content: center;
+}
+.content{
+    padding-top: 30px;
+}
